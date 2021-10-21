@@ -1,6 +1,6 @@
 Worked on by Blade Tyrrell and Zachary England collaboratively.
 
-To use, type in a positiove or negative integer.
+To use, type in a positive or negative integer.
 
 EX: 56 or -56
 
