@@ -1,4 +1,4 @@
-Worked on by Blade Tyrrell and Zachary England collaboratively.
+Worked on by Blade Tyrrell and Zachary England (@uytyks) collaboratively.
 
 To use, type in a positive or negative integer.
 
